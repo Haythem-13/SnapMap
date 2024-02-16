@@ -1,6 +1,6 @@
 
 
-<h1>SnapMap</h1> On going
+<h1>SnapMap</h1> **On going app**
 
 **Concept:** A website to create custom image albums with map descriptions.
 
